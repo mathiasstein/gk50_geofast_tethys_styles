@@ -1,0 +1,1112 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="AMS046">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="E"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="AMS048">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,0,202,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="AMS049">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="F"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0,-2"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="11.3386"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="AMS051">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="60,202,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="AMS073">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="E"/>
+        <prop k="color" v="161,101,80,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="BLE015">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="60,202,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="BLE016">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="E"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="BLE027">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,0,202,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="EBR049">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="60,202,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="EBR060">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="-"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="Arial"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="-0.35826800000000003,-3.64173200000000019"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="17.0078"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="EBR088">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="E"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="EFE035">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,0,202,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="ENG012">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="ENG027">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,0,202,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="GRO081">
+      <layer pass="0" class="SimpleMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="color" v="60,141,202,255"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="name" v="square"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="35,35,35,255"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="scale_method" v="diameter"/>
+        <prop k="size" v="4.25196"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="GRO084">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="3"/>
+        <prop k="color" v="0,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0,-3.5"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="12.7559"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="GRO085">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="3"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0,-3.5"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="12.7559"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="GRO123">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="P"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="Arial Black"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="1,-2"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="10"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="MEL062">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="60,202,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="MEL066">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="MEL093">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="Q"/>
+        <prop k="color" v="60,141,202,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="-0.5,-0.5"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="16"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="MEL094">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="3"/>
+        <prop k="color" v="0,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0,-3.5"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="12.7559"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="MEL095">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="="/>
+        <prop k="color" v="202,0,202,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="MEL098">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="3"/>
+        <prop k="color" v="0,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0,-3.5"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="12.7559"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="MEL104">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="3"/>
+        <prop k="color" v="0,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0,-3.5"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="12.7559"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="NIH016">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="60,202,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="NIH025">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="ROH009">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,0,202,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="ROH013">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="60,202,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="ROH019">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,141,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="SHA032">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="SHA040">
+      <layer pass="0" class="SimpleMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="name" v="square"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="35,35,35,255"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="scale_method" v="diameter"/>
+        <prop k="size" v="4.25196"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="SPE026">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,0,202,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="SPE027">
+      <layer pass="0" class="SimpleMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="color" v="60,202,0,255"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="name" v="circle"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="35,35,35,255"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="scale_method" v="diameter"/>
+        <prop k="size" v="4.25196"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="SPE039">
+      <layer pass="0" class="SimpleMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="name" v="circle"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="35,35,35,255"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="scale_method" v="diameter"/>
+        <prop k="size" v="4.25196"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="SPE041">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="F"/>
+        <prop k="color" v="202,0,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0,-2"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="11.3386"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="VOM133">
+      <layer pass="0" class="SimpleMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="color" v="60,202,0,255"/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="bevel"/>
+        <prop k="name" v="circle"/>
+        <prop k="offset" v="0,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="35,35,35,255"/>
+        <prop k="outline_style" v="no"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="scale_method" v="diameter"/>
+        <prop k="size" v="5.66928"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol alpha="1" tags="gf_Planar_Gesteine_D_Pun" force_rhr="0" type="marker" clip_to_extent="1" name="WLL005">
+      <layer pass="0" class="FontMarker" locked="0" enabled="1">
+        <prop k="angle" v="0"/>
+        <prop k="chr" v="&lt;"/>
+        <prop k="color" v="202,141,0,255"/>
+        <prop k="font" v="geolba_simple"/>
+        <prop k="font_style" v=""/>
+        <prop k="horizontal_anchor_point" v="1"/>
+        <prop k="joinstyle" v="miter"/>
+        <prop k="offset" v="0.10006279199999998,0"/>
+        <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="offset_unit" v="Point"/>
+        <prop k="outline_color" v="255,255,255,255"/>
+        <prop k="outline_width" v="0"/>
+        <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="outline_width_unit" v="MM"/>
+        <prop k="size" v="7.99992"/>
+        <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+        <prop k="size_unit" v="Point"/>
+        <prop k="vertical_anchor_point" v="1"/>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option value="" type="QString" name="name"/>
+            <Option name="properties"/>
+            <Option value="collection" type="QString" name="type"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>
