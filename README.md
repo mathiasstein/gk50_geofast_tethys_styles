@@ -9,3 +9,5 @@ DE:
 Dieses Repository enthält die XML Files sowie die Anleitungen um die Datenpublikation der Geologischen Karte (gk50) sowie der GEOFAST Karten (gf) von der GeoSphere Austria die auf tethys.at publiziert sind mit der Symbolik ähnlich wie auf den gedruckten Karten in QGIS 3.x darzustellen.
 Für genauere Informationen bzw. Anleitungen öffnen sie bitte die jeweiligen PDFs in diesem Repository.
 Um das gesamte Repository als .zip herunterzuladen klicken sie bitte auf "Code" und "Download ZIP".
+
+[![DOI](https://zenodo.org/badge/438354369.svg)](https://doi.org/10.5281/zenodo.15462229)
