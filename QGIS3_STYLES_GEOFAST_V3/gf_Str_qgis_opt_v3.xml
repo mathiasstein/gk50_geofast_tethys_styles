@@ -1,0 +1,3164 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols>
+    <symbol type="marker" alpha="1" name="MRK007" frame_rate="10" tags="gf_Str_2023_2024,gf_Str_2023_2024_qgis_opt" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="["/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-4"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="2"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK008" frame_rate="10" tags="gf_Str_2023_2024,gf_Str_2023_2024_qgis_opt" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="\"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-4"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="2"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK009" frame_rate="10" tags="gf_Str_2023_2024,gf_Str_2023_2024_qgis_opt" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="]"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-4"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="2"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK013" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="n"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-11"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK014" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="o"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK015" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="p"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK016" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="q"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK017" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="r"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK018" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="s"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-7"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK019" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="t"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-7"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK020" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="u"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-7"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK021" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="v"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-7"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK022" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="w"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK023" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="t"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK024" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="w"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK035" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="n"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-11"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK036" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="o"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK037" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="p"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK041" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="o"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK042" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="q"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK043" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="r"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK044" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="d"/>
+          <Option type="QString" name="color" value="60,202,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-11"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK045" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="h"/>
+          <Option type="QString" name="color" value="60,202,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-13"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK046" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="e"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK047" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="f"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK048" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="g"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK049" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="h"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-13"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK050" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="o"/>
+          <Option type="QString" name="color" value="202,0,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK051" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="q"/>
+          <Option type="QString" name="color" value="161,101,80,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK052" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="e"/>
+          <Option type="QString" name="color" value="202,141,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK053" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="f"/>
+          <Option type="QString" name="color" value="202,141,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK054" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="g"/>
+          <Option type="QString" name="color" value="202,141,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK055" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="h"/>
+          <Option type="QString" name="color" value="202,141,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-13"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK056" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="p"/>
+          <Option type="QString" name="color" value="202,141,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK057" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="d"/>
+          <Option type="QString" name="color" value="202,141,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-11"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK058" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="o"/>
+          <Option type="QString" name="color" value="202,141,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK059" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="g"/>
+          <Option type="QString" name="color" value="161,101,80,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK060" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="e"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK061" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="f"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK062" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="g"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK063" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="p"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK064" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="["/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-13"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK065" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="\"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK066" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="]"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK067" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="f"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK068" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="o"/>
+          <Option type="QString" name="color" value="60,202,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK069" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="f"/>
+          <Option type="QString" name="color" value="60,202,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK070" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="p"/>
+          <Option type="QString" name="color" value="60,202,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK071" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="h"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-13"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK072" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="q"/>
+          <Option type="QString" name="color" value="202,141,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK073" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="n"/>
+          <Option type="QString" name="color" value="161,101,80,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-11"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK074" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="e"/>
+          <Option type="QString" name="color" value="60,202,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK075" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="g"/>
+          <Option type="QString" name="color" value="60,202,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK076" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="o"/>
+          <Option type="QString" name="color" value="161,101,80,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK077" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="p"/>
+          <Option type="QString" name="color" value="161,101,80,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value="Regular"/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK078" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="f"/>
+          <Option type="QString" name="color" value="161,101,80,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK079" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="t"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK080" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="w"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK081" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="n"/>
+          <Option type="QString" name="color" value="0,202,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-11"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK082" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="d"/>
+          <Option type="QString" name="color" value="0,202,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-11"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK083" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="o"/>
+          <Option type="QString" name="color" value="0,202,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK084" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="e"/>
+          <Option type="QString" name="color" value="0,202,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK085" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="p"/>
+          <Option type="QString" name="color" value="0,202,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK086" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="f"/>
+          <Option type="QString" name="color" value="0,202,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK087" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="q"/>
+          <Option type="QString" name="color" value="0,202,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK088" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="g"/>
+          <Option type="QString" name="color" value="0,202,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK089" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="1" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="K"/>
+          <Option type="QString" name="color" value="60,202,0,255"/>
+          <Option type="QString" name="font" value="geolba_standard"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-11"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK324" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="t"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK325" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="v"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK330" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="e"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK343" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="n"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-11"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK344" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="o"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK345" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="p"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-14"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK346" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="q"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-15"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK347" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="s"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-6"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK348" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="t"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK349" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="u"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK350" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="v"/>
+          <Option type="QString" name="color" value="0,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK351" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="s"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-6"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK352" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="t"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK353" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="u"/>
+          <Option type="QString" name="color" value="60,141,202,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0.10000000000000001,-8"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK359" frame_rate="10" tags="gf_Str,gf_Str_qgis_opt_v2" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="s"/>
+          <Option type="QString" name="color" value="202,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,-6"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="1"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+    <symbol type="marker" alpha="1" name="MRK361" frame_rate="10" tags="gf_Str_2023_2024,gf_Str_2023_2024_qgis_opt" is_animated="0" clip_to_extent="1" force_rhr="0">
+      <data_defined_properties>
+        <Option type="Map">
+          <Option type="QString" name="name" value=""/>
+          <Option name="properties"/>
+          <Option type="QString" name="type" value="collection"/>
+        </Option>
+      </data_defined_properties>
+      <layer locked="0" enabled="1" pass="0" class="FontMarker">
+        <Option type="Map">
+          <Option type="QString" name="angle" value="0"/>
+          <Option type="QString" name="chr" value="w"/>
+          <Option type="QString" name="color" value="201,0,0,255"/>
+          <Option type="QString" name="font" value="geolba_struktur"/>
+          <Option type="QString" name="font_style" value=""/>
+          <Option type="QString" name="horizontal_anchor_point" value="1"/>
+          <Option type="QString" name="joinstyle" value="miter"/>
+          <Option type="QString" name="offset" value="0,0"/>
+          <Option type="QString" name="offset_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="offset_unit" value="Point"/>
+          <Option type="QString" name="outline_color" value="255,255,255,255"/>
+          <Option type="QString" name="outline_width" value="0"/>
+          <Option type="QString" name="outline_width_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="outline_width_unit" value="MM"/>
+          <Option type="QString" name="size" value="16"/>
+          <Option type="QString" name="size_map_unit_scale" value="3x:0,0,0,0,0,0"/>
+          <Option type="QString" name="size_unit" value="Point"/>
+          <Option type="QString" name="vertical_anchor_point" value="2"/>
+        </Option>
+        <data_defined_properties>
+          <Option type="Map">
+            <Option type="QString" name="name" value=""/>
+            <Option name="properties"/>
+            <Option type="QString" name="type" value="collection"/>
+          </Option>
+        </data_defined_properties>
+      </layer>
+    </symbol>
+  </symbols>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes/>
+  <symbols3d/>
+</qgis_style>
